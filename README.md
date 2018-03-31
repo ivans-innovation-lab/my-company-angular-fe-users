@@ -1,4 +1,4 @@
-# my-company-angular-fe-blog
+# my-company-angular-fe-users
 
 ## Running instructions
 
